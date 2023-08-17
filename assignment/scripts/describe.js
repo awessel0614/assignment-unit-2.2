@@ -26,9 +26,9 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// The number is equal to one, and then one more is added,
+// so the number is now two. Since the number two is greater than or equal to two,
+// the console will print 'yes'.
 //
 
 //CODE
@@ -45,8 +45,8 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
+// The name is Dane, and since it is not equal to Mary, 
+// it will print out 'How do you do?'
 // 
 //
 
@@ -70,9 +70,9 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// The first variable is secret, and has nothing assigned to it. The code is 123, and
+// since the code is indeed the same as 123, the secret gets set to 'super', and the code
+// is multiplied by 2. Since 246 is less than 250, the console will just print 'super'.
 //
 
 //CODE
@@ -92,6 +92,9 @@ if (isStudent === true && zip > 80000 ) {
 }
 
 */
+
+//Description: the first if statement returns false, the second returns false, and the third
+//one returns true, so it prints 'Welcome to Prime!'
 
 
 
